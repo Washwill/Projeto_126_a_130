@@ -1,0 +1,11 @@
+.heading{
+    margin: 0;
+    width: 100%;
+    font-size: 27px;
+    color: rgb(0, 255, 225);
+}
+
+.note{
+    font-size: 20px;
+    color: rgb(0, 255, 60);
+}
